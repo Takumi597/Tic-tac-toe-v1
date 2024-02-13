@@ -1,4 +1,0 @@
-﻿  KiKv2.cpp
-C:\Users\Jakub\Desktop\Projekty\Studia\PO\KiKv2\KiKv2\KiKv2.cpp(137,36): warning C4244: "+=": konwersja z "double" do "__int64", możliwa utrata danych
-C:\Users\Jakub\Desktop\Projekty\Studia\PO\KiKv2\KiKv2\KiKv2.cpp(141,40): warning C4244: "+=": konwersja z "double" do "__int64", możliwa utrata danych
-  KiKv2.vcxproj -> C:\Users\Jakub\Desktop\Projekty\Studia\PO\KiKv2\x64\Debug\KiKv2.exe
